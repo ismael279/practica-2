@@ -1,0 +1,30 @@
+/* Ejercicio 3: estilos de la página y las tarjetas */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+.tarjeta {
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin: 10px 0;
+  padding: 15px;
+}
+
+.tarjeta h2 {
+  font-size: 18px;
+  margin-top: 0;
+  color: #1a5fb4;
+}
+
+.tarjeta p {
+  color: #555;
+  line-height: 1.4;
+}
